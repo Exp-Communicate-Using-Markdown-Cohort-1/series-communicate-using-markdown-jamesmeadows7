@@ -6,3 +6,7 @@
 #### Header 4
 ##### Header 5
 ###### Header 6
+
+# Adding Images
+
+![Image of an Octodex](https://octodex.github.com/images/Professortocat_v2.png)
