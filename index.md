@@ -10,3 +10,9 @@
 # Adding Images
 
 ![Image of an Octodex](https://octodex.github.com/images/Professortocat_v2.png)
+
+# Code Examples
+```python
+for i in range(n):
+  print(i)
+```
